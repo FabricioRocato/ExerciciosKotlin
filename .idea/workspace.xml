@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5f1387a-7589-41dd-9f7f-647e60a239e8" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/16.OrdenandoInteiros.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/17.Palindromo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/18.ScrabbleScore.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/19.AlgarismosRomanos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/20.JoKenPo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/5.Circumference.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/6.SalarioLiquido.kt" afterDir="false" />
+    <list default="true" id="e5f1387a-7589-41dd-9f7f-647e60a239e8" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.SomaDosQuadrados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11.QuadradoDaSoma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/12.VelociadeDoProjétil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13.EleiçãoSindical.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14.MediaDoAluno.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/15.SomandoNaturais.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/4.FizzBuzz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/7.VolumeDaCaixa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8.ConversãoEmReal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/9.ConversãoEmDolar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,22 +40,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/gemini/Documents/AULA-RASSO/Exercicios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;application.passwordSafe&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/gemini/Documents/AULA-RASSO/Exercicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "application.passwordSafe",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="_8_ConversãoEmRealKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_ConversãoEmRealKt" />
+      <module name="Exercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._8_ConversãoEmRealKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
