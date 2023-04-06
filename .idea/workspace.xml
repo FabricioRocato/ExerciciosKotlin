@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5f1387a-7589-41dd-9f7f-647e60a239e8" name="Changes" comment="." />
+    <list default="true" id="e5f1387a-7589-41dd-9f7f-647e60a239e8" name="Changes" comment="Exercicios concluidos">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/8.ConversãoEmReal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/8.ConversãoEmReal.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NW6KrEt93EMLLWpue0mKugvRdm" />
@@ -93,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680735708304</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicios concluidos">
+      <created>1680740358998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680740358998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Exercicios concluidos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios concluidos" />
   </component>
 </project>

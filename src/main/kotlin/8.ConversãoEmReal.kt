@@ -10,6 +10,5 @@ fun main() {
     // realiza a conversão do valor em dólar para real
     val valorReal = cotacaoDolar * quantidadeDolar
 
-    // mostra o valor da conversão em real
     println("O valor em real é: R$ $valorReal")
 }
