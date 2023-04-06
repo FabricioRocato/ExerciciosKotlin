@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5f1387a-7589-41dd-9f7f-647e60a239e8" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/10.SomaDosQuadrados.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/11.QuadradoDaSoma.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/12.VelociadeDoProjétil.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/13.EleiçãoSindical.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/14.MediaDoAluno.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/15.SomandoNaturais.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/4.FizzBuzz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/7.VolumeDaCaixa.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8.ConversãoEmReal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/9.ConversãoEmDolar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5f1387a-7589-41dd-9f7f-647e60a239e8" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,14 +79,40 @@
       <option name="project" value="LOCAL" />
       <updated>1680129696724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1680735626489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680735626489</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".">
+      <created>1680735708304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680735708304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
